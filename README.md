@@ -1,5 +1,7 @@
 # meetup_scraper
 
+Live Web App: https://script.google.com/macros/s/AKfycbxVwvqnC6BZilQR0SEwfKGAYRLlsmS_HhlVPZjYlN-UhAQE7ALmDsN449SedEPw9_azqg/exec
+
 A Google Apps Script that automatically scrapes Techlahoma events from Meetup and syncs them into a Google Spreadsheet.
 
 ## What It Does
